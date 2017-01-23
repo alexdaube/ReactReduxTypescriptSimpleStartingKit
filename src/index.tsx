@@ -4,7 +4,7 @@ import { Store, createStore } from 'redux';
 import { Provider } from 'react-redux';
 
 import App from './components/app';
-import reducers from './reducers';
+import rootReducer from './reducers';
 
 const initialState = {};
 
