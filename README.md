@@ -1,4 +1,4 @@
-# Global dependencies`
+# Global Dependencies
 
 ```sh
 
@@ -17,7 +17,7 @@ npm install
 typings install
 ```
 
-# Compile and start server
+# Compile and Start Server
 
 ```sh
 
