@@ -1,23 +1,27 @@
-# react-starter
-
-Avant de commencer, jetez un coup d'oeil aux ressources suivantes:
-* [Getting started with React](https://facebook.github.io/react/docs/getting-started.html)
-
-Une chose à savoir, React est le V dans MVC, donc ne comprend pas de logique de controlleurs ou d'évènements comme Angular ou Backbone supporte directement. Vous aurez fort probablement besoin d'une seconde librairie pour la logique, la librairie recommandée est [redux](http://redux.js.org/).
-
-# Tutoriels recommandés
-* [React fundamentals - egghead.io](https://egghead.io/courses/react-fundamentals)
-* [Getting started with redux](https://egghead.io/courses/getting-started-with-redux)
-
-# Compiler
+# Global dependencies`
 
 ```sh
+
+npm install -g gulp-cli
+npm install -g webpack
+npm install -g typescript
+npm install -g typings
+```
+
+
+# Dependencies
+
+```sh
+
 npm install
+typings install
+```
+
+# Compile and start server
+
+```sh
+
 gulp
 ```
 
-# Exécuter
-
-Ouvrir `index.html` avec le serveur intégré de WebStorm.
-Le message `Hello GLO-3112 WEB!` devrais s'afficher dans votre navigateur, vous êtes prêt à développer!
 
