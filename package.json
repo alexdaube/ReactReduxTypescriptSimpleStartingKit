@@ -9,6 +9,7 @@
   "author": "wfortin & vseguin",
   "license": "MIT",
   "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
     "chai": "^3.5.0",
     "chai-jquery": "^2.0.0",
     "gulp": "^3.9.1",
