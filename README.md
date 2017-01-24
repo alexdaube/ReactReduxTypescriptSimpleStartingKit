@@ -14,7 +14,6 @@ npm install -g typings
 ```sh
 
 npm install
-typings install
 ```
 
 # Compile and Start Server
@@ -23,5 +22,3 @@ typings install
 
 gulp
 ```
-
-
